@@ -1,6 +1,8 @@
 Cloudflare module for Caddy
 ===========================
 
+[![CodSpeed](https://img.shields.io/endpoint?url=https://codspeed.io/badge.json)](https://app.codspeed.io/ktd-gif/cloudflare?utm_source=badge)
+
 This package contains a DNS provider module for [Caddy](https://github.com/caddyserver/caddy). It can be used to manage DNS records with Cloudflare accounts.
 
 ## Caddy module name
