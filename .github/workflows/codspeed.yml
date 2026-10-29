@@ -34,4 +34,4 @@ jobs:
         uses: CodSpeedHQ/action@v5
         with:
           mode: walltime # Go only supports walltime mode
-          run: go test -run '^$' -bench=. -benchtime=1s .
+          run: go test -bench=. -benchtime=1s .
